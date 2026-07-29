@@ -6,10 +6,10 @@
    ============================================================ */
 
 const CONFIG = {
-  EMAILJS_SERVICE_ID: 'service_2pfuc0v',
-  EMAILJS_TEMPLATE_ID: 'template_53s11z5',
-  EMAILJS_PUBLIC_KEY: '9-9DXL0kw5VbUDzTO',
+  EMAILJS_SERVICE_ID: 'service_sfjdtz7',
+  EMAILJS_TEMPLATE_ID: 'template_zt177il',
+  EMAILJS_PUBLIC_KEY: 'pi9H8k_T4_jdIfKEi',
 
-  PARTNER_NAME: 'Bé Yêu',
-  YOUR_NAME: 'Anh',
+  PARTNER_NAME: 'Bạn Yêu',
+  YOUR_NAME: 'Nghĩa',
 };
