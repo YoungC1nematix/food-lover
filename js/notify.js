@@ -106,8 +106,8 @@ const Notifier = {
    */
   isConfigured() {
     return this.initialized &&
-           CONFIG.EMAILJS_SERVICE_ID !== 'YOUR_SERVICE_ID' &&
-           CONFIG.EMAILJS_TEMPLATE_ID !== 'YOUR_TEMPLATE_ID' &&
-           CONFIG.EMAILJS_PUBLIC_KEY !== 'YOUR_PUBLIC_KEY';
+           CONFIG.EMAILJS_SERVICE_ID !== 'service_sfjdtz7' &&
+           CONFIG.EMAILJS_TEMPLATE_ID !== 'template_zt177il' &&
+           CONFIG.EMAILJS_PUBLIC_KEY !== 'pi9H8k_T4_jdIfKEi';
   },
 };
